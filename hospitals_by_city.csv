@@ -1,0 +1,534 @@
+City,Hospital Count
+101 Manthorpe Road,1
+Abbots Langley,1
+Abingdon,1
+Accrington,1
+Alnwick,1
+Alston,1
+Alton,2
+Altrincham,3
+Amersham,1
+Andover,1
+Arnold,1
+Arundel,1
+Ascot,2
+Ashbourne,1
+Ashford,3
+Ashington,2
+Ashtead,1
+Ashton Under Lyne,1
+Attleborough,2
+Axminster,1
+Aylesbury,2
+Bakewell,1
+"Balby, Doncaster",1
+Banbury,4
+Barking,1
+Barnard Castle,1
+Barnet,2
+Barnsley,2
+Barnstaple,1
+Barrow-In-Furness,1
+Basingstoke,2
+Bath,5
+Beccles,1
+Beckenham,1
+"Beckenham, London",1
+Bedford,4
+Berkeley,1
+Berkshire,1
+Berwick-upon-Tweed,1
+Beverley,2
+Bexhill-on-Sea,1
+Bexleyheath,1
+Bicester,1
+Biddenham,1
+Bideford,1
+Bilborough,1
+Billericay,1
+Billingham,2
+Bingley,1
+Birkenhead,1
+Birmingham,34
+Birmingham (SatNav B5 7SA),1
+Bishop Auckland,4
+Bishop's Castle,1
+Bishop's Stortford,1
+Blackburn,2
+Blackpool,3
+Blandford Forum,1
+Blyth,1
+Bodmin,1
+Bognor Regis,1
+Bolton,4
+Bordon,1
+Boston,5
+Bournemouth,6
+Brackley,2
+Bradford,11
+Brampton,1
+Brentwood,3
+Bridgnorth,1
+Bridgwater,1
+Bridlington,1
+Bridport,2
+Brighouse,1
+Brighton,5
+Bristol,18
+Brixham,1
+Bromley,2
+Bromsgrove,1
+Bromyard,1
+Buckhurst Hill,1
+Buckingham,1
+Buckinghamshire,1
+Bude,1
+Budleigh Salterton,1
+Bungay,1
+Burnham-On-Sea,1
+Burnley,1
+Burton-On-Trent,1
+Bury,2
+Bury St. Edmunds,2
+Bushey,1
+Buxton,2
+Camberley,1
+Cambridge,8
+Cannock,1
+Canterbury,5
+Carlisle,2
+Carlton Colville,1
+Carshalton,2
+Caterham,2
+Chalfont St Peter,1
+Chard,1
+Chatham,1
+Cheadle,2
+Chelmsford,8
+Cheltenham,4
+Chertsey,2
+Chester,4
+Chester Le Street,1
+Chesterfield,7
+Chichester,2
+Chippenham,1
+Chorley,3
+Christchurch,2
+Cinderford,1
+Cirencester,1
+City of London,1
+Clacton,1
+Clevedon,1
+Clitheroe,2
+Cobham,1
+Cockermouth,1
+Colchester,5
+Congleton,1
+Consett,1
+Corby,1
+Cottingham,2
+Coventry,3
+Cramlington,2
+Cranbrook,2
+Crawley,3
+Crediton,1
+Crewe,1
+Crewkerne,1
+Cromer,2
+Crowborough,2
+Crowthorne,1
+Croydon,2
+Darlington,8
+Dartford,4
+Daventry,1
+Dawlish,2
+Deal,1
+Derby,6
+Dereham,1
+Devizes,2
+Dewsbury,2
+Didcot,1
+Doddington,1
+Doncaster,3
+Dorchester,3
+Dover,1
+Driffield,1
+Droitwich,1
+Dudley,4
+Durham,3
+Dursley,1
+Ealing,1
+East Grinstead,1
+Eastbourne,1
+Eastleigh,1
+Edenbridge,1
+Edgware,1
+Elland,1
+Ellesmere Port,1
+Ely,1
+Emsworth,2
+Enfield,4
+Epsom,4
+Erith,1
+Essex,1
+Evesham,1
+Exeter,7
+Exmouth,1
+Eye,1
+Fairford,1
+Falmouth,1
+Fareham,2
+Faringdon,1
+Farnham,2
+Faversham,1
+Felixstowe,1
+Fleet,1
+Fleetwood,1
+Folkestone,1
+Fordingbridge,1
+Fowey,1
+Frome,1
+Gainsborough,1
+Gateshead,3
+Gillingham,1
+Glastonbury,2
+Glossop,1
+Gloucester,4
+Gloucestershire,1
+Godalming,1
+Goole,1
+Gorleston on Sea,1
+Gosport,2
+Grantham,1
+Gravesend,1
+Grays,2
+Great Missenden,1
+Great Yarmouth,2
+Grimsby,2
+Guildford,5
+Guisborough,1
+Hailsham,2
+Halesowen,1
+Halifax,1
+Halstead,1
+Haltwhistle,1
+Harefield,1
+Harlow,1
+Harpenden,2
+Harrogate,3
+Harrow,5
+Harrow on the Hill,1
+Hartlepool,2
+Harwich,2
+Haslemere,1
+Hatfield,1
+Havant,2
+Hayle,2
+Haywards Heath,4
+Heathfield,1
+Helston,1
+Hemel Hempstead,2
+Henley-on-Thames,1
+Hereford,2
+Herne Bay,1
+Hertford,1
+Hexham,1
+High Wycombe,2
+Hinckley,1
+Hitchin,1
+Holmfirth,1
+Holsworthy,1
+Holt,1
+Honiton,1
+Hook,1
+Horley,2
+Horncastle,1
+Hornsea,1
+Horsham,1
+Hove,3
+Huddersfield,2
+Hull,11
+Huntingdon,1
+Ilford,4
+Ilfracombe,1
+Ilkeston,2
+Ilkley,1
+Ipswich,4
+Isleworth,1
+Jarrow,4
+Jersey,1
+Keighley,1
+Kendal,1
+"Kensington and Chelsea, London",1
+Kenton,1
+Keswick,1
+Kettering,3
+Kidderminster,1
+King's Lynn,3
+Kingsbridge,1
+Kingston Upon Thames,2
+Knutsford,1
+LINCOLN,1
+Lancaster,2
+Launceston,1
+Leamington Spa,1
+Leeds,14
+Leek,3
+Leicester,6
+Leigh,1
+Leigh-On-Sea,1
+Leominster,1
+Lewes,1
+Lichfield,2
+Lincoln,4
+Liskeard,1
+Liverpool,17
+London,95
+Longfield,1
+Louth,1
+Ludlow,1
+Luton,1
+Lutterworth,1
+Lydney,1
+Lymington,3
+Lyndhurst,1
+Lytham St. Annes,2
+Macclesfield,3
+Maidenhead,1
+Maidstone,5
+Malmesbury,1
+Malton,1
+Malvern,1
+Manchester,18
+Mansfield,3
+Margate,2
+Market Harborough,2
+Marlborough,1
+Marlow,1
+Maryport,1
+Matlock,1
+Melksham,1
+Melton Mowbray,1
+Mexborough,1
+Middlesbrough,4
+Midhurst,1
+Milton Keynes,3
+Minehead,1
+Mitcham,1
+Morecambe,1
+Moreton-In-Marsh,2
+Morpeth,4
+Nelson,1
+Newark,1
+Newcastle,1
+Newcastle Under Lyme,1
+Newcastle Upon Tyne,8
+Newcastle under Lyme,1
+Newcastle-upon-Tyne,1
+Newport,1
+Newquay,1
+Newton Abbot,2
+Newton-Le-Willows,2
+North Shields,1
+North Walsham,1
+Northallerton,2
+Northampton,3
+Northwich,1
+Northwood,3
+Norwich,8
+Nottingham,11
+Nuneaton,3
+Oakham,1
+Okehampton,1
+Oldham,2
+Ormskirk,2
+Orpington,4
+Ossett,1
+Oswestry,1
+Otley,1
+Ottery St Mary,1
+Oulton,1
+Oxford,9
+Paignton,1
+Penrith,1
+Penzance,2
+Pershore,1
+Peterborough,3
+Peterlee,1
+Petersfield,1
+Plymouth,6
+Pontefract,1
+Poole,5
+Portland,1
+Portsmouth,2
+Potters Bar,1
+Prescot,2
+Preston,5
+Princes Risborough,1
+Prudhoe,1
+Purley,1
+Radlett,1
+Reading,5
+Redcar,1
+Redditch,1
+Redhill,2
+Redruth,1
+Retford,2
+Richmond,3
+Ringwood,1
+Ripley,1
+Ripon,1
+Rochdale,5
+Rochford,1
+Romford,4
+Romsey,1
+Ross-on-Wye,1
+Rotherham,4
+Rowley Regis,1
+Royston,2
+Rugby,1
+Runcorn,1
+Rye,1
+Saffron Walden,1
+Salford,3
+Salisbury,3
+Saltash,1
+Saltburn-By-The-Sea,1
+Sawbridgeworth,2
+Scarborough,4
+Scunthorpe,2
+Seaton,1
+Selby,1
+Settle,1
+Sevenoaks,2
+Shaftesbury,1
+Sheerness,2
+Sheffield,16
+Shepton Mallet,2
+Sherborne,1
+Shipley,1
+Shipston-on-Stour,1
+Shoreham-By-Sea,1
+Shrewsbury,3
+Sidcup,1
+Sidmouth,2
+Sittingbourne,1
+Skegness,1
+Skipton,1
+Slough,3
+Solihull,5
+South Molton,1
+South Petherton,1
+South Shields,1
+Southall,1
+Southampton,9
+Southend-on-Sea,1
+Southport,3
+Southsea,1
+Spalding,1
+St. Albans,1
+St. Austell,3
+St. Helens,2
+St. Ives,1
+St. Leonards-on-Sea,2
+St. Marys,1
+Stafford,4
+Staffordshire,1
+Stamford,1
+Stanmore,1
+Stevenage,2
+Stockport,3
+Stockton-On-Tees,1
+Stockton-on-Tees,2
+Stoke-On-Trent,5
+Stoke-on-Trent,3
+Stourbridge,2
+Stratford-upon-Avon,1
+Stroud,1
+Sudbury,1
+Sunderland,4
+Surbiton,2
+Surrey,1
+Sutton,3
+Sutton Coldfield,2
+Sutton-In-Ashfield,1
+Swaffham,1
+Swanage,1
+Swindon,2
+Tamworth,1
+Tarporley,1
+Taunton,6
+Tavistock,1
+Teddington,1
+Teignmouth,1
+Telford,1
+Tenbury Wells,1
+Tetbury,1
+Thame,1
+Thatcham,1
+Thirsk,1
+Thornton Heath,1
+Tiverton,1
+Tonbridge,1
+Torquay,2
+Torrington,1
+Totnes,1
+Trowbridge,1
+Truro,2
+Tunbridge Wells,5
+Uckfield,1
+Ulverston,1
+Unknown,15
+Uxbridge,2
+Wadhurst,1
+Wakefield,2
+Wallasey,1
+Wallingford,1
+Walsall,3
+Waltham Abbey,1
+Waltham Cross,1
+Walton-on-Thames,1
+Wantage,1
+Wareham,1
+Warminster,1
+Warrington,4
+Warwick,3
+Washington,1
+Watford,2
+Wellingborough,2
+Wellington,2
+Wells-Next-The-Sea,1
+Welwyn,1
+Welwyn Garden City,1
+West Bromwich,4
+Westbury,1
+Westcliff-on-Sea,2
+Weston-Super-Mare,2
+Weymouth,2
+Whitby,1
+Whitchurch,1
+Whitehaven,1
+Whitstable,1
+Widnes,1
+Wigan,2
+Wigton,1
+Wilmslow,1
+Wimborne,3
+Wincanton,1
+Winchester,3
+Windsor,5
+Winsford,1
+Wirral,5
+Wisbech,1
+Withernsea,1
+Witney,1
+Woking,5
+Wokingham,1
+Wolverhampton,5
+Worcester,2
+Workington,1
+Worksop,1
+Worthing,4
+Wrexham,1
+Yeovil,1
+York,11
